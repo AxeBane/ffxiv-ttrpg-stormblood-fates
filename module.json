@@ -2,8 +2,8 @@
   "id": "ffxiv-ttrpg-stormblood-fates",
   "title": "FFXIV TTRPG: Stormblood FATES",
   "manifest": "https://github.com/AxeBane/ffxiv-ttrpg-stormblood-fates/releases/latest/download/module.json",
-  "download": "https://github.com/AxeBane/ffxiv-ttrpg-stormblood-fates/releases/download/1.0.3/module.zip",
-  "version": "1.0.3",
+  "download": "https://github.com/AxeBane/ffxiv-ttrpg-stormblood-fates/releases/download/1.0.4/module.zip",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "14.370",
     "verified": "14.370"
