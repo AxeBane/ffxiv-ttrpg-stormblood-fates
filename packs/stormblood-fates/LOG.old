@@ -1,0 +1,14 @@
+2026/11/24-15:15:29.742 80b0 Recovering log #37
+2026/11/24-15:15:29.748 80b0 Delete type=0 #37
+2026/11/24-15:15:29.748 80b0 Delete type=3 #36
+2026/11/24-15:31:18.226 7934 Level-0 table #41: started
+2026/11/24-15:31:18.229 7934 Level-0 table #41: 54567 bytes OK
+2026/11/24-15:31:18.229 7934 Delete type=0 #39
+2026/11/24-15:31:18.242 7934 Manual compaction at level-0 from '!adventures!DataqiChronicle1' @ 72057594037927935 : 1 .. '!adventures!DataqiChronicle1' @ 0 : 0; will stop at '!adventures!DataqiChronicle1' @ 6 : 1
+2026/11/24-15:31:18.243 7934 Compacting 1@0 + 1@1 files
+2026/11/24-15:31:18.247 7934 Generated table #42@0: 1 keys, 27335 bytes
+2026/11/24-15:31:18.247 7934 Compacted 1@0 + 1@1 files => 27335 bytes
+2026/11/24-15:31:18.249 7934 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/11/24-15:31:18.249 7934 Delete type=2 #29
+2026/11/24-15:31:18.249 7934 Delete type=2 #41
+2026/11/24-15:31:18.250 7934 Manual compaction at level-0 from '!adventures!DataqiChronicle1' @ 6 : 1 .. '!adventures!DataqiChronicle1' @ 0 : 0; will stop at (end)
